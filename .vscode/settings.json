@@ -1,0 +1,15 @@
+{
+  "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 2,
+  "workbench.statusBar.visible": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "'FiraCode Nerd Font'",
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "scm.inputFontSize": 14,
+  "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono'",
+  "terminal.integrated.fontSize": 13,
+}
